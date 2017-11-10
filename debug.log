@@ -1,0 +1,4 @@
+[1110/192527.757:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[1110/192555.090:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[1110/192555.127:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[1110/192555.129:ERROR:file_io_win.cc(182)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
